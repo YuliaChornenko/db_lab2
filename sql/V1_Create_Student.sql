@@ -1,0 +1,8 @@
+CREATE TABLE IF NOT EXISTS Student(
+    OUTID VARCHAR PRIMARY KEY,
+    Birth NUMERIC,
+    year INT,
+    SexTypeName VARCHAR,
+    RegionID VARCHAR,
+    EOName VARCHAR
+);
