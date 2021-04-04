@@ -1,0 +1,8 @@
+
+CREATE TABLE IF NOT EXISTS Region(
+    RegionID SERIAL PRIMARY KEY,
+    RegName VARCHAR, 
+    AreaName VARCHAR,
+    TerName VARCHAR,
+    TerTypeName VARCHAR
+);
