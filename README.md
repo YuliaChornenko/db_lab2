@@ -1,3 +1,6 @@
+![Image alt](https://github.com/YuliaChornenko/db_lab2/blob/main/Logical.png)
+![Image alt](https://github.com/YuliaChornenko/db_lab2/blob/main/Physical(1).png)
+
 How to run the script
 
 note: 1st version does not make any sense, this is hello world migration
